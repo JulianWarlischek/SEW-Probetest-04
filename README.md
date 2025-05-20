@@ -40,5 +40,7 @@ Entwickeln Sie ein Java-Programm, das Personen und Familien in einer Baumstruktu
 
 ---
 
-**Aufgabe:**  
+**Aufgabe:**
 Implementieren Sie die beschriebenen Klassen und Methoden. Schreiben Sie Unit-Tests, um die Funktionalität zu überprüfen. Achten Sie besonders auf die korrekte Sortierung in der `PersonList` und die formatierte Ausgabe im `FamilyTree`.
+
+<img src="./diagramm.png">
