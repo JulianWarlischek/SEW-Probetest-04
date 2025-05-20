@@ -12,6 +12,7 @@ Entwickeln Sie ein Java-Programm, das Personen und Familien in einer Baumstruktu
 ### 1. `Person`
 - Repräsentiert eine einzelne Person mit Vorname, Nachname und Alter.
 - Implementiert Methoden wie `equals`, `hashCode`, `compareTo` und `toString`, um Vergleiche und Ausgaben zu ermöglichen.
+- Die Methode compareTo richtet sich nach dem `Alter` der einzelnen Personen
 
 ### 2. `PersonList<E extends Comparable<E>>`
 - Generische, sortierte, einfach verkettete Liste für Personen (oder andere vergleichbare Objekte).
